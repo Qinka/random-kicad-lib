@@ -1,2 +1,2 @@
-# mojov3-sheield-kicad
+# Mojo v3 Shield for KiCAD
 The Mojo v3 Shield for KiCAD.
