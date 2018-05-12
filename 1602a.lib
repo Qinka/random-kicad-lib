@@ -1,8 +1,7 @@
 EESchema-LIBRARY Version 2.3
-#encoding utf-8
-#
-# 1602A
-#
+# 1602A for KiCAD
+# Copyright (C) 2018 Johann Lee <me@qinka.pro>
+# Define 1602A module
 DEF 1602A U 0 40 Y Y 1 F N
 F0 "U" -100 750 60 H V C CNN
 F1 "1602A" -150 -750 60 H V C CNN
